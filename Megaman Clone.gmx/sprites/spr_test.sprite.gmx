@@ -8,9 +8,15 @@
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
   <bbox_left>5</bbox_left>
+<<<<<<< HEAD
   <bbox_right>28</bbox_right>
   <bbox_top>6</bbox_top>
   <bbox_bottom>26</bbox_bottom>
+=======
+  <bbox_right>24</bbox_right>
+  <bbox_top>6</bbox_top>
+  <bbox_bottom>27</bbox_bottom>
+>>>>>>> refs/remotes/telimonster/master
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
