@@ -81,7 +81,9 @@ if keyboard_check(vk_right) {
             <kind>1</kind>
             <string>///Movement.
 
-
+if walking == 1 {
+    x -= 5;
+}
 </string>
           </argument>
         </arguments>
